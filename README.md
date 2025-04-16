@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Modestas Anilionis</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 
-- 🔭 I’m currently working on [Marketplace prototype](https://github.com/meModiz/mini-marketplace)
 
 - 📫 How to reach me **modestasanilionis2005@gmail.com**
 
