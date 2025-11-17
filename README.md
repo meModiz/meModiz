@@ -2,19 +2,15 @@
 
 ###
 
-<h2 align="left">My name is Modestas and I'm front-end developer. 👨‍💻</h2>
+<h2 align="left">My name is Modestas and I'm a front-end developer. 👨‍💻</h2>
 
 ###
 
-<h2 align="left">Interests</h2>
+<p align="left">I enjoy building clean, modern, and fast web apps using React and Angular.<br><br>I'm interested in expanding my knowledge of front-end architecture, performance optimization, and complex problem-solving.<br><br>Outside of tech, I enjoy sports and have a strong interest in automotive topics. 🚗⚽</p>
 
 ###
 
-<p align="left">● Sports ⚽🏐<br>● Tech 💻<br>● Automotive 🚗</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Tools I use:</h2>
 
 ###
 
